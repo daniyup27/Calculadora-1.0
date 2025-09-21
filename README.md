@@ -41,4 +41,9 @@ Esta **calculadora** permite realizar operaciones matemáticas básicas con vari
 <p align="center">
 <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200">
 </p>
+![C++](https://img.shields.io/badge/C%2B%2B-Usado-ffb6c1?style=for-the-badge&logo=cplusplus&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-Explorando-ffb6c1?style=for-the-badge&logo=flutter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Usado-fda4ba?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Experimentos-ffc0cb?style=for-the-badge&logo=openjdk&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-ff69b4?style=for-the-badge)
 
