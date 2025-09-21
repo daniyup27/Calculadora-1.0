@@ -1,4 +1,7 @@
-# 🌸 Calculadora 1.0 🌸  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=120&section=header&text=🌸%20Calculadora%201.0%20🌸&fontSize=40&fontColor=ffffff" />
+</p>
+
 
 Bienvenid@ a mi primer proyecto en C++ 💕  
 Esta **calculadora** permite realizar operaciones matemáticas básicas con varios números:  
