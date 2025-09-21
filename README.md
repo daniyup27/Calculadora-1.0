@@ -19,13 +19,8 @@ Esta **calculadora** permite realizar operaciones matemáticas básicas con vari
 ---
 
 ## 💻 Tecnologías usadas
-- Lenguaje: **C**  
-- Librerías: `<stdio.h>`, `<math.h>`, `<conio.h>`  
+- Librerías de c: `<stdio.h>`, `<math.h>`, `<conio.h>`  
 - Entorno recomendado: **Visual Studio Code** o cualquier compilador de C.  
-
----
-
-## 🌈 Ejemplo de uso
 
 ---
 
@@ -46,5 +41,8 @@ Esta **calculadora** permite realizar operaciones matemáticas básicas con vari
 
 ![C++](https://img.shields.io/badge/C%2B%2B-Usado-ffb6c1?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![Dev-C++](https://img.shields.io/badge/Dev--C++-Editor-ff69b4?style=for-the-badge&logo=codeblocks&logoColor=white)
+
+## 📜 Licencia
+![License](https://img.shields.io/badge/License-MIT-ff69b4?style=for-the-badge)
 
 
